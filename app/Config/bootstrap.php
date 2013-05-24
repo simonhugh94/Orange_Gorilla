@@ -110,3 +110,6 @@ CakeLog::config('error', array(
 
 //load Debug Kit
 CakePlugin::load('DebugKit');
+
+//load facebook api
+CakePlugin::load('Facebook');
