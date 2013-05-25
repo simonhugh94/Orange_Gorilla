@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+*.diff
+*.err
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+.DS_Store
+.cache
+.project
+.settings
+.svn
+errors.err
+tags
+=======
+# User specific & automatically generated files #
+#################################################
+/build
+/dist
+/tags
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+>>>>>>> e8ddf2d0e5f41577ff41adceebe7c42b1fac9052
